@@ -1,0 +1,6 @@
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.DTO\bin\Debug\Library.DTO.dll
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.DTO\bin\Debug\Library.DTO.pdb
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.DTO\obj\Debug\Library.DTO.csprojAssemblyReference.cache
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.DTO\obj\Debug\Library.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.DTO\obj\Debug\Library.DTO.dll
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.DTO\obj\Debug\Library.DTO.pdb

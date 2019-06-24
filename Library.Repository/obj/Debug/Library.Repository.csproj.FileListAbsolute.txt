@@ -1,0 +1,15 @@
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\bin\Debug\Library.Repository.dll.config
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\bin\Debug\Library.Repository.dll
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\bin\Debug\Library.Repository.pdb
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\bin\Debug\Library.Entity.dll
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\bin\Debug\Library.Entity.pdb
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\bin\Debug\Library.Entity.dll.config
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\obj\Debug\Library.Repository.csprojAssemblyReference.cache
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\obj\Debug\Library.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\obj\Debug\Library.Repository.csproj.CopyComplete
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\obj\Debug\Library.Repository.dll
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Repository\obj\Debug\Library.Repository.pdb

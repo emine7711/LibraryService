@@ -1,0 +1,6 @@
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Extension\bin\Debug\Library.Extension.dll
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Extension\bin\Debug\Library.Extension.pdb
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Extension\obj\Debug\Library.Extension.csprojAssemblyReference.cache
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Extension\obj\Debug\Library.Extension.csproj.CoreCompileInputs.cache
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Extension\obj\Debug\Library.Extension.dll
+C:\Users\Emine\source\repos\AmbeentLibrary\Library.Extension\obj\Debug\Library.Extension.pdb
